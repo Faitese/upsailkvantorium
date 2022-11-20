@@ -1,4 +1,4 @@
-<div class="bg-indigo-500 h-auto text-white pt-8 px-16 pb-8 flex">
+<div class="bg-indigo-500 h-auto text-white pt-8 px-16 pb-24 flex">
     <div class="flex-1/4 w-96">
         <p class="font-semibold">Клиентам</p><br>
         Катера<br>

@@ -10,6 +10,9 @@
 <body>
     <?php
     include('menu.php');
-    ?>    
+    include("cookies.php");
+    ?>
+
+
 </body>
 </html>
