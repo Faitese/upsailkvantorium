@@ -6,12 +6,20 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <script src="https://cdn.tailwindcss.com"></script>
     <title>Document</title>
+    <style>
+    html {
+        scroll-behavior: smooth;
+    }
+    </style>
 </head>
 <body>
+
     <?php
-    include('menu.php');
-    include("cookies.php");
+        include('menu.php');
+        include("cookies.php");
+        
     ?>
+    <script src="//code.jivo.ru/widget/XC1LRW4qya" async></script>
 
 
 </body>
