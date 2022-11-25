@@ -26,12 +26,12 @@ module.exports = {
                     <a href="/"><img src="img/logo.jpg" alt="" srcset=""></a>
                 </li>
                 <li class="block relative" x-data="{showChildren:false}" @click.away="showChildren=false">
-                    <a href="#" class="text-white bg-indigo-500 flex items-center h-10 leading-10 px-4 rounded cursor-pointer no-underline hover:no-underline transition-colors duration-100 mx-1 " @click.prevent="showChildren=!showChildren">
+                    <a href="/catalog.php?what=Яхты" class="text-white bg-indigo-500 flex items-center h-10 leading-10 px-4 rounded cursor-pointer no-underline hover:no-underline transition-colors duration-100 mx-1 " >
                         <span>Яхты</span>
                     </a>
                 </li>
                 <li class="block relative">
-                    <a href="#" class="text-white bg-indigo-500 flex items-center h-10 leading-10 px-4 rounded cursor-pointer no-underline hover:no-underline transition-colors duration-100 mx-1 ">
+                    <a href="/catalog.php?what=Катера" class="text-white bg-indigo-500 flex items-center h-10 leading-10 px-4 rounded cursor-pointer no-underline hover:no-underline transition-colors duration-100 mx-1 ">
                         <span>Катера</span>
                     </a>
                 </li>

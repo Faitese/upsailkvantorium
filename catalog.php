@@ -29,8 +29,8 @@
                     <p class='text-medium mb-5 '><strong>Стоимость:</strong> $price руб./час</p>
     
                     <div class='flex'>
-                        <button class='mr-5 w-1/2 rounded-md bg-indigo-600  py-2 text-indigo-100 hover:bg-indigo-500 hover:shadow-md duration-75'>Подробнее</button>
-                        <button class='w-1/2 rounded-md bg-indigo-600  py-2 text-indigo-100 hover:bg-indigo-500 hover:shadow-md duration-75'>Заказать</button>
+                        <a href='/more.php' class='w-1/2 mr-5 rounded-md bg-indigo-600   text-indigo-100 hover:bg-indigo-500 hover:shadow-md duration-75'><button class='w-full py-2 text-center'>Подробнее</button></a>
+                        <a href='/buy.php'  class='w-1/2 rounded-md bg-indigo-600  text-indigo-100 hover:bg-indigo-500 hover:shadow-md duration-75'><button class='w-full py-2 text-center'>Заказать</button></a>
                     </div>
                 </div>
             </div>
