@@ -100,12 +100,12 @@ module.exports = {
                     </a>
                 </li>
                 <li class="block relative" x-data="{showChildren:false}" @click.away="showChildren=false">
-                    <a href="#" class="text-white bg-indigo-500 flex items-center h-10 leading-10 px-4 rounded cursor-pointer no-underline hover:no-underline transition-colors duration-100 mx-1 " @click.prevent="showChildren=!showChildren">
+                    <a href="/map.php?what=Отели" class="text-white bg-indigo-500 flex items-center h-10 leading-10 px-4 rounded cursor-pointer no-underline hover:no-underline transition-colors duration-100 mx-1 ">
                         <span>Отели</span>
                     </a>
                 </li>
                 <li class="block relative" x-data="{showChildren:false}" @click.away="showChildren=false">
-                    <a href="#" class="text-white bg-indigo-500 flex items-center h-10 leading-10 px-4 rounded cursor-pointer no-underline hover:no-underline transition-colors duration-100 mx-1 " @click.prevent="showChildren=!showChildren">
+                    <a href="/map.php?what=Рестораны" class="text-white bg-indigo-500 flex items-center h-10 leading-10 px-4 rounded cursor-pointer no-underline hover:no-underline transition-colors duration-100 mx-1 " >
                         <span>Рестораны</span>
                     </a>
                 </li>

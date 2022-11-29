@@ -82,10 +82,9 @@
     <div class="text-indigo-600 text-center text-[24pt] font-bold">
         Партнеры
     </div>
-    <div class=" border-gray-300 text-indigo-600 text-2xl px-4 h-96 ">
-        <p>
-            Какие-то партнеры (нет в тз :] )
-        </p>
+    <div class=" border-gray-300 text-indigo-600 w-full text-2xl px-4 h-96 flex">
+        <img src="img/kvantorium_logo.png" class="w-1/4 h-[60%] flex" alt="">
+        <img src="img/sevgulogo.png" class="w-[20%] h-[60%] flex  right-0" alt="">
     </div>
     
     <a name="FAQ">
